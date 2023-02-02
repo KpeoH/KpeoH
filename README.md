@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KpeoH
-- 🌱 I’m currently learning C#, SQL, HTML 
+- 🌱 I’m currently learning C#, SQL, HTML/CSS, Python, Machine Learning, JavaScript!
 
 <!---
 KpeoH/KpeoH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
