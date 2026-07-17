@@ -2,6 +2,7 @@
 - Currently working on my Python skills.
 ---
 <img width="1452" height="569" alt="image" src="https://github.com/user-attachments/assets/38e724d1-d722-43e9-ba2a-11f421016273" />
+
 ---
 Fallout: New Vegas enjoyer.
 <!---
