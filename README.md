@@ -4,7 +4,7 @@
 >
 > — **Joshua Graham**
 ---
-<img width="1452" height="569" alt="image" src="https://github.com/user-attachments/assets/38e724d1-d722-43e9-ba2a-11f421016273" />
+<img width="1498" height="777" alt="изображение" src="https://github.com/user-attachments/assets/638a4648-ce48-472c-885c-6ac25de84024" />
 
 ---
 
